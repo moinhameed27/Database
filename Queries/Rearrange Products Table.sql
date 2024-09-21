@@ -1,6 +1,5 @@
 /* Leetcode : https://leetcode.com/problems/rearrange-products-table/description/ */ 
 
-/* Way - I */ 
 select product_id, 'store1' as store, store1 as price
 from Products where store1 is not null
 union
