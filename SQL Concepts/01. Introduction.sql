@@ -49,3 +49,6 @@ values
 insert into student values
 (7, "Bakar", 21),
 (8, "Rafay", 21);
+
+/* ALIAS : Rename the column name as of your choice */
+select id as student_name from student;
