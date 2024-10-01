@@ -1,10 +1,10 @@
 # Project Structure
 
-This repository contains the following files and folders:
+This repository contains all university labs containing the following files and folders:
 
 ## Code.sql
 
-This file contains the SQL code for various queries, showcasing different possible approaches to solve the lab problems. It serves as a reference for different SQL techniques and optimizations.
+This file contains the SQL code for various queries, showcasing different possible approaches to solve the lab problems.
 
 ## DBS-BCSF22_LAB01.docx
 
@@ -16,4 +16,3 @@ This file provides comprehensive solutions for the lab queries. It includes:
 
 - The SQL code for each query
 - Screenshots of the output for visual verification
-- Explanations or comments where necessary to clarify the approach
