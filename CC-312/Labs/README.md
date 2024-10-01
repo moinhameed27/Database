@@ -1,6 +1,6 @@
 # Structure
 
-This repository contains all university labs containing the following files and folders:
+This Folder contains all university labs containing the following files and folders:
 
 ## 1. Code.sql
 
