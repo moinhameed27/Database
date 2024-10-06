@@ -1,0 +1,13 @@
+# Queries/SORTING and GROUPING
+
+
+| Name       | Problem Link                       | Solution Link                     |
+|--------------------|------------------------------------|-----------------------------------|
+| Number of Unique Subjects Taught by Each Teacher         | [Leetcode - 2356](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/SORTING%20and%20GROUPING/Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.sql)              |
+| Find Total Time Spent by Each Employee         | [Leetcode - 1741](https://leetcode.com/problems/find-total-time-spent-by-each-employee/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/SORTING%20and%20GROUPING/Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql)              |
+| Daily Leads and Partners         | [Leetcode - 1693](https://leetcode.com/problems/daily-leads-and-partners/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/SORTING%20and%20GROUPING/Daily%20Leads%20and%20Partners.sql)              |
+| Capital Gain/Loss         | [Leetcode - 1393](https://leetcode.com/problems/capital-gainloss/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/SORTING%20and%20GROUPING/Capital%20Gain%20Loss.sql)              |
+| Bank Account Summary II         | [Leetcode - 1587](https://leetcode.com/problems/bank-account-summary-ii/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/SORTING%20and%20GROUPING/Bank%20Account%20Summary%20II.sql)              |
+| The Latest Login in 2020         | [Leetcode - 1890](https://leetcode.com/problems/the-latest-login-in-2020/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/SORTING%20and%20GROUPING/The%20Latest%20Login%20in%202020.sql)              |
+| User Activity for the Past 30 Days I         | [Leetcode - 1141](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/SORTING%20and%20GROUPING/User%20Activity%20for%20the%20Past%2030%20Days%20I.sql)              |
+| Classes More Than 5 Students         | [Leetcode - 596](https://leetcode.com/problems/classes-more-than-5-students/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/SORTING%20and%20GROUPING/Classes%20More%20Than%205%20Students.sql)              |
