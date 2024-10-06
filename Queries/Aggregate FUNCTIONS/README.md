@@ -1,0 +1,13 @@
+# Queries/Aggregate FUNCTIONS
+
+
+| Name       | Problem Link                       | Solution Link                     |
+|--------------------|------------------------------------|-----------------------------------|
+| Not Boring Movies         | [Leetcode - 620](https://leetcode.com/problems/not-boring-movies/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/Aggregate%20FUNCTIONS/Not%20Boring%20Movies.sql)              |
+| Average Selling Price         | [Leetcode - 1251](https://leetcode.com/problems/average-selling-price/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/Aggregate%20FUNCTIONS/Average%20Selling%20Price.sql)              |  
+| Project Employees I         | [Leetcode - 1075](https://leetcode.com/problems/project-employees-i/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/Aggregate%20FUNCTIONS/Project%20Employees%20I.sql)              |
+| Percentage of Users Attended a Contest         | [Leetcode - 1633](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/Aggregate%20FUNCTIONS/Percentage%20of%20Users%20Attended%20a%20Contest.sql)              |
+| Queries Quality and Percentage         | [Leetcode - 1211](https://leetcode.com/problems/queries-quality-and-percentage/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/Aggregate%20FUNCTIONS/Queries%20Quality%20and%20Percentage.sql)              |
+| Monthly Transactions I         | [Leetcode - 1193](https://leetcode.com/problems/monthly-transactions-i/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/Aggregate%20FUNCTIONS/Monthly%20Transactions%20I.sql)              |
+| Immediate Food Delivery II         | [Leetcode - 1174](https://leetcode.com/problems/immediate-food-delivery-ii/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/Aggregate%20FUNCTIONS/Immediate%20Food%20Delivery%20II.sql)              |
+| Game Play Analysis IV         | [Leetcode - 550](https://leetcode.com/problems/game-play-analysis-iv/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/Aggregate%20FUNCTIONS/Game%20Play%20Analysis%20IV.sql)              |
