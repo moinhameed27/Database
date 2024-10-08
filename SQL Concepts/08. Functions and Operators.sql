@@ -83,3 +83,91 @@ SUBSTR() : The SUBSTR() function extracts a part of a string.
 select substr(ename, 1, 4) as sub from emp;
 select substr(ename, 2) as sub from emp;
 select substr(ename, -4) as sub from emp;
+
+/*
+UPPER() : The UPPER function converts all characters in a string to uppercase.
+~ UPPER(string)
+--> select upper('hello world') as result;
+*/
+
+select upper(ename) as upper_name from EMP;
+
+/*
+LOWER() : The LOWER function converts all characters in a string to lowercase.
+~ LOWER(string)
+--> select lower('hello world') as result;
+*/
+
+select lower(ename) as lower_name from EMP;
+
+/*
+LEFT() : The LEFT function returns a specified number of characters from the left side of a string.
+~ LEFT(string, number_of_characters)
+--> select left('Database', 4) as result; (Data)
+*/
+
+select left(ename, 5) as ans from EMP;
+
+/*
+RIGHT() : The RIGHT function returns a specified number of characters from the right side of a string.
+~ RIGHT(string, number_of_characters)
+--> select right('Database', 4) as result; (base)
+*/
+
+select right(ename, 5) as ans from EMP;
+
+/*
+LPAD() : The LPAD function pads a string on the left side with a specified character until it reaches a
+		 desired length.
+~ LPAD(string, padded_length, pad_string)
+--> SELECT LPAD('123', 6, '0') AS padded_value; (000123)
+*/
+
+select lpad(ename, 8, "*") as ans from EMP;
+
+/*
+RPAD() : The RPAD function pads a string on the right side with a specified character until it reaches a
+		 desired length.
+~ RPAD(string, padded_length, pad_string)
+--> SELECT RPAD('123', 6, '0') AS padded_value; (123000)
+*/
+
+select rpad(ename, 8, "*") as ans from EMP;
+
+/*
+TRIM() : The TRIM function removes leading, trailing, or both leading and trailing spaces (or other
+		 specified characters) from a string.
+~ TRIM([LEADING | TRAILING | BOTH] trim_character FROM string)
+1. Removing Leading and Trailing Spaces
+--> SELECT TRIM('    SQL Tutorial    ') AS trimmed_value; (SQL Tutorial)
+2. Trimming Custom Characters
+--> SELECT TRIM(BOTH 'x' FROM 'xxxSQLxxx') AS result; (SQL)
+*/
+
+select trim(ename) as ans from EMP;
+select trim(both "T" from ename) as ans from EMP;
+
+/*
+LENGTH() : The LENGTH function returns the number of characters in a string.
+~ LENGTH(string)
+--> SELECT LENGTH('Database Management') AS string_length; (21)
+*/
+
+select length(ename) as len from EMP;
+
+/*
+REVERSE() : The REVERSE function reverses the characters in a string.
+~ REVERSE(string)
+--> SELECT REVERSE("SQL") AS string_length; (LQS)
+*/
+
+select reverse(ename) as rev from EMP;
+
+
+/*
+REPLACE() : The REPLACE function replaces occurrences of a substring within a string with another substring.
+~ REPLACE(string, search_string, replace_string)
+--> SELECT REPLACE('Learn SQL with tutorials', 'tutorials', 'examples') AS replaced_value; (Learn SQL with examples)
+*/
+
+select replace("I Love Country", "Country" , "Pakistan") as rep;
