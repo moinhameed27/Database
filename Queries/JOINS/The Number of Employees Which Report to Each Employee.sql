@@ -1,4 +1,4 @@
-/* Leetcode :  */
+/* Leetcode : https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/ */
 
 select E1.employee_id, E1.name, count(E2.reports_to) as reports_count, 
 round(avg(E2.age), 0) as average_age
