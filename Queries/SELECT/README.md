@@ -8,3 +8,4 @@
 | Find Customer Referee         | [Leetcode - 584](https://leetcode.com/problems/find-customer-referee/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/SELECT/Find%20Customer%20Referee.sql)              |
 | Big Countries         | [Leetcode - 595](https://leetcode.com/problems/big-countries/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/SELECT/Big%20Countries.sql)              |
 | Invalid Tweets         | [Leetcode - 1683](https://leetcode.com/problems/invalid-tweets/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/SELECT/Invalid%20Tweets.sql)              |
+| Triangle Judgement         | [Leetcode - 610](https://leetcode.com/problems/triangle-judgement/description/)                | [Solution](https://github.com/moinhameed27/Database/blob/main/Queries/SELECT/Triangle%20Judgement.sql)              |
