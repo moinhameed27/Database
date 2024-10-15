@@ -19,7 +19,7 @@ Table Name : Student
 */
 
 create table student (
-	studentId char(5) primary key,
+    studentId char(5) primary key,
     firstname varchar(20) not null,
     lastname varchar(30) not null
 );
@@ -47,7 +47,7 @@ Table Name : Class
 */
 
 create table class (
-	classCode char(5) primary key not null,
+    classCode char(5) primary key not null,
     courseCode char(5) not null,
     classSection int not null,
     classroom varchar(10) unique,
@@ -70,7 +70,7 @@ Table Name : Enrollment
 */
 
 create table enrollment (
-	classCode char(5) not null,
+    classCode char(5) not null,
     studentId char(5) primary key not null,
     enrollGrade char(1) not null,
     constraint fk_class_code foreign key (classCode) references class(classCode),
