@@ -96,9 +96,9 @@ insert into student values
 
 /* 2. 
 Class_Code  Course_Code  Class_Section  Class_Room  Class_Teacher
-   C101        CS101		   1 			1         Dr. White
-   C102 	   CS102           2			2		  Dr. Green
-   C103 	   CS103 		   3 			3 		  Dr. Black
+   C101        CS101		       1 			  1         Dr. White
+   C102 	      CS102           2			     2		   Dr. Green
+   C103 	      CS103 		    3 			  3 		   Dr. Black
 */
 insert into class values
 ("C101", "CS101", 1, "1", "Dr. White"),
